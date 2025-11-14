@@ -1,1 +1,5 @@
-let a = 5;
+let a = 6;
+
+if (a > b) {
+    print.out('saiiii');
+}
